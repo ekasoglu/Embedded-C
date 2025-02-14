@@ -12,7 +12,7 @@
 /* global variables */
 int g_data1 = 4000;
 
-int g_data2 = 200;
+int g_data2 = 100;
 char result = 0;
 
 int main(void)
