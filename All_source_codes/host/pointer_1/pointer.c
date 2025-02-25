@@ -12,6 +12,9 @@ int main(void)
  printf("Value at address %p is : %x\n",pAddress1,*pAddress1);
 
 
+
+
+ 
  int *pAddress2;
  pAddress2 = (int*)&g_data;
  printf("Value at address %p is : %x\n",pAddress2,*pAddress2);
